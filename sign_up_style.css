@@ -1,0 +1,62 @@
+body {
+    background-color: cornsilk;
+}
+
+#header1 {
+    height: 30px;
+    margin: 0px 0px 10px 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
+#first {
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#first,h1,p,form {
+    margin: 20px 20px 20px 50px;
+}
+
+#button {
+    align-items: center;
+}
+
+#sweet {
+   width: 1100px;
+   height: 500px;
+   padding: 25px 40px ;
+   background-color: transparent;
+   border: 1px solid black;
+   border-radius: 20px 20px 20px 20px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+p,form {
+font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#image1 {
+    width: 50%;
+    height: 50%;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    padding-left: 800px;
+    margin-bottom: 800px;
+}
+
+#button1 {
+    color: brown;
+    background-color:gold
+    stroke: aqua;
+    margin: center ;
+    border-radius: 30px 30px 30px 30px;
+    width: 100px;
+    height: 50px;
+    
+}
